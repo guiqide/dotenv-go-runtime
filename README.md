@@ -3,7 +3,7 @@
 ### Installation
 
 Include the package locally in your repository.
-`npm install dotenv-go-runtime`
+`go get github.com/guiqide/dotenv-go-runtime`
 
 ### Description
 
